@@ -20,7 +20,7 @@
 Social Media | Link
 ------------ | -------------
 Youtube | <a href = "shorturl.at/hlJ18"> @woozie_music </a>
-Twitter | <a href = "https://twitter.com/wooziemovie"> @wooziemovie </a>
+Twitter | <a href = "https://x.com/aayushmallik"> @aayushmallik </a>
 
 🌱 I’m currently learning:
  <h3> Machine Learning </h3>
